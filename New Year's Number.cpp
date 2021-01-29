@@ -1,4 +1,4 @@
-// https://codeforces.com/contest/96/problem/A complexidade O(n)
+// https://codeforces.com/problemset/problem/1475/B O(k)
 #include <bits/stdc++.h>
 using namespace std;
  
